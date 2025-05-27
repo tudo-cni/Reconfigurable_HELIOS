@@ -49,19 +49,21 @@ The "main.py" file will then be executed automatically upon starting the single-
 
 
 ## Acknowledgement
-This work has been supported by the German Federal Ministry of Education and Research (BMBF) in the course of the
-6GEM Research Hub under the grant number 16KISK038.
-
+This work has been supported by the German Federal Ministry of Research, Technology and Space ([BMFTR](https://https://www.bundesregierung.de/breg-en/federal-government/ministries/federal-ministry-of-research-technology-and-space)) in the course of the
+[6GEM Research Hub](https://www.6gem.de/en/) under the grant number 16KISK038.
 
 ## Citation
-If you use this code or results in your publication, please cite our work (author's version) as:
+If you use this code in any of your publications, please cite our work (author's version) as:
 ```
 @article{Haeger/etal/2025b,
 	Author = {S. H{\"a}ger, M. Kaudewitz, F. Schmickmann, S. B{\"o}cker, and C. Wietfeld},
-	Title = {Field Performance Evaluation of a Mechatronic Reflector System in a Private mmWave Network Environment},
+	Title = {Field Performance Evaluation of a Mechatronic Reflector System in a Private {mmWave} Network Environment},
 	Journal = {IEEE Open Journal of the Communications Society},
+	Month= may, 
 	Year = {2025},
+	Pages = {1-24},
+	Doi = {10.1109/OJCOMS.2025.3572723},
+  	Note = {Early Access},
 	Project = {6GEM}, 
-  Note = {Submitted on Mar. 03, 2025, Accepted with Mandatory Changes on Apr. 19, 2025},
 }
 ```
