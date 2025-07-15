@@ -59,11 +59,11 @@ If you use this code in any of your publications, please cite our work (author's
 	Author = {S. H{\"a}ger, M. Kaudewitz, F. Schmickmann, S. B{\"o}cker, and C. Wietfeld},
 	Title = {Field Performance Evaluation of a Mechatronic Reflector System in a Private {mmWave} Network Environment},
 	Journal = {IEEE Open Journal of the Communications Society},
-	Month= may, 
+	Month= jun, 
 	Year = {2025},
-	Pages = {1-24},
+	Vol = {6},
+	Pages = {5005-5029},
 	Doi = {10.1109/OJCOMS.2025.3572723},
-  	Note = {Early Access},
 	Project = {6GEM}, 
 }
 ```
